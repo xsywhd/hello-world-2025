@@ -1,2 +1,4 @@
 # hello-world-2025
-this is my first github project!:
+this is my first github project!
+lenovo
+
